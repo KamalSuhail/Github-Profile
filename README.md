@@ -1,5 +1,14 @@
 # 💫 About Me:
-Motivated IT student seeking an entry-level position, with a passion for learning and staying updated on emerging technologies. Dedicated to continuously expanding my skill set and applying my knowledge ina practical, real-world environment. Eager to contribute to innovative projects and grow within a dynamic organization. <br>
+IT Graduate🎓 | Aspiring Software Developer🚀
+
+💻 Enthusiastic IT professional with a strong foundation in web development and programming, specializing in HTML, CSS, JavaScript, Bootstrap framework and Java. Proficient in building 🌐 responsive and user-friendly web applications, with hands-on experience in developing real-world projects during internships and academic pursuits.
+
+✨ Key Highlights:
+
+📜 Published Work: Final-year project featured in IEEE Paper Publications.<br>
+🔧 Practical Experience: Completed an internship, developing a website for Innobyte Services using cutting-edge web technologies.<br>
+🌟 Passionate about staying updated on emerging technologies and eager to apply knowledge in innovative and dynamic environments.<br>
+⚡ Committed to contributing to impactful projects, enhancing technical expertise, and growing with a forward-thinking organization. <br>
 
 
 ## 🌐 Socials:

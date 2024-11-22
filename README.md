@@ -5,9 +5,12 @@ IT Graduate🎓 | Aspiring Software Developer🚀
 
 ✨ Key Highlights:
 
-📜 Published Work: Final-year project featured in IEEE Paper Publications.<br>
-🔧 Practical Experience: Completed an internship, developing a website for Innobyte Services using cutting-edge web technologies.<br>
-🌟 Passionate about staying updated on emerging technologies and eager to apply knowledge in innovative and dynamic environments.<br>
+📜 Published Work: Final-year project featured in IEEE Paper Publications.
+
+🔧 Practical Experience: Completed an internship, developing a website for Innobyte Services using cutting-edge web technologies.
+
+🌟 Passionate about staying updated on emerging technologies and eager to apply knowledge in innovative and dynamic environments.
+
 ⚡ Committed to contributing to impactful projects, enhancing technical expertise, and growing with a forward-thinking organization. <br>
 
 

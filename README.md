@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 IT Graduate🎓 | Aspiring Software Developer🚀
 
 💻 Enthusiastic IT professional with a strong foundation in web development and programming, specializing in HTML, CSS, JavaScript, Bootstrap framework and Java. Proficient in building 🌐 responsive and user-friendly web applications, with hands-on experience in developing real-world projects during internships and academic pursuits.
